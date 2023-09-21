@@ -1,4 +1,4 @@
-![image](https://github.com/upennbootcamp23/seo-website-refactor/assets/143010411/5e23b13f-a2ed-4ce9-8f4b-44461e6eff75)# Alex Egerev's Module 1 Challenge
+![image](https://github.com/upennbootcamp23/seo-website-refactor/assets/143010411/5e23b13f-a2ed-4ce9-8f4b-44461e6eff75)# Alex Egerev's Module 1 Challenge - Refactoring Horiseon's Search Engine Optimization website
 
 ## Description
 
