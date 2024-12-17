@@ -1,20 +1,4 @@
-![image](https://github.com/upennbootcamp23/seo-website-refactor/assets/143010411/5e23b13f-a2ed-4ce9-8f4b-44461e6eff75)# Alex Egerev's Module 1 Challenge - Refactoring Horiseon's Search Engine Optimization website
-
-## Description
-
----------------User Story---------------
-As a user of Horiseon, I want to have an accessible website without compromising the quality of our site/brand.
-
----------------Acceptance Criteria-------
-- It is done when the index.html file has 'alt' tags inside the 'img' tags.
-- It is done when the style.css file has comments detailing to the user what the code does. 
-
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
-- [Deployment](#deployment)
+# Alex Egerev's Module 1 Challenge - Refactoring Horiseon's Search Engine Optimization website
 
 ## Installation
 
@@ -39,5 +23,5 @@ Please refer to the LICENSE in the repo.
 ## Deployment
 This README contains:
 - The Link for the website: https://upennbootcamp23.github.io/seo-website-refactor/
-- The deployment screenshot of the website: [insert image here]
+- The deployment screenshot of the website: ![image](https://github.com/upennbootcamp23/seo-website-refactor/assets/143010411/5e23b13f-a2ed-4ce9-8f4b-44461e6eff75)
 
