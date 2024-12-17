@@ -22,6 +22,6 @@ Please refer to the LICENSE in the repo.
 
 ## Deployment
 This README contains:
-- The Link for the website: https://upennbootcamp23.github.io/seo-website-refactor/
+- The Link for the website: https://aegerev.github.io/seo-website-refactor/
 - The deployment screenshot of the website: ![image](https://github.com/upennbootcamp23/seo-website-refactor/assets/143010411/5e23b13f-a2ed-4ce9-8f4b-44461e6eff75)
 
